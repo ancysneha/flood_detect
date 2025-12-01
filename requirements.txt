@@ -1,4 +1,9 @@
 torch
+torchvision
 streamlit
 pillow
+numpy
 pandas
+requests
+
+
